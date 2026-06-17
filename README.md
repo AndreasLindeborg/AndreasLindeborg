@@ -4,7 +4,7 @@ I'm **[Andreas](https://www.andreaslindeborg.com/)**, an AI engineer in Stockhol
 
 I recently graduated from Linköping University with an M.Sc. in Information Technology and Engineering, specializing in Secure Systems. My interests sit at the intersection of AI, quality assurance, cybersecurity, and practical developer tools.
 
-For my Master’s thesis at Saab Aeronautics, I built GUIOracle, a local multimodal LLM pipeline for automated GUI test execution and outcome verification. Previously, for my Bachelor’s thesis, I explored privacy-preserving social matching using Mixnets and Solid Pods.
+For my Master’s thesis at Saab Aeronautics, I built GUIOracle, a local multi-modal LLM pipeline for automated GUI test execution and outcome verification. Previously, for my Bachelor’s thesis, I explored privacy-preserving social matching using Mixnets and Solid Pods.
 
 Most of my projects start from something I would want to use myself, from AI-assisted workflows to private planning tools and polished web applications.
 
